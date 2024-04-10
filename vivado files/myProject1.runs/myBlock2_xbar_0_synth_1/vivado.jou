@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Mon Feb 19 22:41:29 2024
+# Process ID: 14248
+# Current directory: C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/myProject1/myProject1.runs/myBlock2_xbar_0_synth_1
+# Command line: vivado.exe -log myBlock2_xbar_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source myBlock2_xbar_0.tcl
+# Log file: C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/myProject1/myProject1.runs/myBlock2_xbar_0_synth_1/myBlock2_xbar_0.vds
+# Journal file: C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/myProject1/myProject1.runs/myBlock2_xbar_0_synth_1\vivado.jou
+# Running On: DESKTOP-AB23O75, OS: Windows, CPU Frequency: 1800 MHz, CPU Physical cores: 4, Host memory: 8496 MB
+#-----------------------------------------------------------
+source myBlock2_xbar_0.tcl -notrace

@@ -1,0 +1,82 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/myProject1/p_user_files/bd/myBlock2/ip/myBlock2_axi_smc_0/bd_0/sim/bd_3e6c.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bd_3e6c
+INFO: [VRFC 10-311] analyzing module clk_map_imp_1ONFGX5
+INFO: [VRFC 10-311] analyzing module m00_exit_pipeline_imp_9HVBN6
+INFO: [VRFC 10-311] analyzing module s00_entry_pipeline_imp_18OTACX
+INFO: [VRFC 10-311] analyzing module s00_nodes_imp_1E4KWBV
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/myProject1/p_user_files/bd/myBlock2/ip/myBlock2_axi_smc_0/sim/myBlock2_axi_smc_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module myBlock2_axi_smc_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/myProject1/p_user_files/bd/myBlock2/ip/myBlock2_processing_system7_0_0/sim/myBlock2_processing_system7_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module myBlock2_processing_system7_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/myProject1/p_user_files/bd/myBlock2/ip/myBlock2_xbar_0/sim/myBlock2_xbar_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module myBlock2_xbar_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/myProject1/p_user_files/bd/myBlock2/ipshared/b0b0/rtl/Layer_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Layer_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/myProject1/p_user_files/bd/myBlock2/ipshared/b0b0/rtl/Layer_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Layer_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/myProject1/p_user_files/bd/myBlock2/ipshared/b0b0/rtl/Layer_3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Layer_3
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/myProject1/p_user_files/bd/myBlock2/ipshared/b0b0/rtl/Sig_ROM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Sig_ROM
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/myProject1/p_user_files/bd/myBlock2/ipshared/b0b0/rtl/Weight_Memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Weight_Memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/myProject1/p_user_files/bd/myBlock2/ipshared/b0b0/rtl/axi_lite_wrapper.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module axi_lite_wrapper
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/myProject1/p_user_files/bd/myBlock2/ipshared/b0b0/rtl/maxFinder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module maxFinder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/myProject1/p_user_files/bd/myBlock2/ipshared/b0b0/rtl/neuron.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module neuron
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/myProject1/p_user_files/bd/myBlock2/ipshared/b0b0/rtl/relu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ReLU
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/myProject1/p_user_files/bd/myBlock2/ipshared/b0b0/rtl/zynet.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module zyNet
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/myProject1/p_user_files/bd/myBlock2/ip/myBlock2_zyNet_0_0/sim/myBlock2_zyNet_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module myBlock2_zyNet_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/myProject1/p_user_files/bd/myBlock2/ip/myBlock2_auto_pc_0/sim/myBlock2_auto_pc_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module myBlock2_auto_pc_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/src/fpga/rtl/Layer_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Layer_1
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'Layer_1' [C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/src/fpga/rtl/Layer_1.v:1]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/src/fpga/rtl/Layer_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Layer_2
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'Layer_2' [C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/src/fpga/rtl/Layer_2.v:1]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/src/fpga/rtl/Layer_3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Layer_3
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'Layer_3' [C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/src/fpga/rtl/Layer_3.v:1]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/src/fpga/rtl/Sig_ROM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Sig_ROM
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'Sig_ROM' [C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/src/fpga/rtl/Sig_ROM.v:23]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/src/fpga/rtl/include.v" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/src/fpga/rtl/Weight_Memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Weight_Memory
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'Weight_Memory' [C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/src/fpga/rtl/Weight_Memory.v:23]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/src/fpga/rtl/axi_lite_wrapper.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module axi_lite_wrapper
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'axi_lite_wrapper' [C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/src/fpga/rtl/axi_lite_wrapper.v:4]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/src/fpga/rtl/maxFinder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module maxFinder
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'maxFinder' [C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/src/fpga/rtl/maxFinder.v:1]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/src/fpga/rtl/neuron.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module neuron
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'neuron' [C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/src/fpga/rtl/neuron.v:24]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/src/fpga/rtl/relu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ReLU
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'ReLU' [C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/src/fpga/rtl/relu.v:1]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/src/fpga/rtl/zynet.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module zyNet
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'zyNet' [C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/src/fpga/rtl/zynet.v:23]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/myProject1/p_user_files/bd/myBlock2/ip/myBlock2_xlconcat_0_0/sim/myBlock2_xlconcat_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module myBlock2_xlconcat_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/myProject1/p_user_files/bd/myBlock2/sim/myBlock2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module m00_couplers_imp_1HKY0CG
+INFO: [VRFC 10-311] analyzing module m01_couplers_imp_CUIXLT
+INFO: [VRFC 10-311] analyzing module myBlock2
+INFO: [VRFC 10-311] analyzing module myBlock2_ps7_0_axi_periph_0
+INFO: [VRFC 10-311] analyzing module s00_couplers_imp_FKPJB6
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/src/fpga/tb/top_sim.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top_sim
+ERROR: [VRFC 10-9568] first argument of '$readmemb' must be a file name [C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/src/fpga/tb/top_sim.v:163]
+ERROR: [VRFC 10-9568] first argument of '$readmemb' must be a file name [C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/src/fpga/tb/top_sim.v:213]
+WARNING: [VRFC 10-3824] variable 'layerNo' must explicitly be declared as automatic or static [C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/src/fpga/tb/top_sim.v:240]
+ERROR: [VRFC 10-3593] non-module variable 'layerNo' cannot be initialized at declaration [C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/src/fpga/tb/top_sim.v:240]
+ERROR: [VRFC 10-8530] module 'top_sim' is ignored due to previous errors [C:/Users/hp/Desktop/NeuralNetwork2/Tut-8/src/fpga/tb/top_sim.v:7]

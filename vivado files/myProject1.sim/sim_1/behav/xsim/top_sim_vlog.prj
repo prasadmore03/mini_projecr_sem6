@@ -1,0 +1,51 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../myProject1.gen/sources_1/bd/myBlock2/ipshared/f0b6/hdl/verilog" --include "../../../../myProject1.gen/sources_1/bd/myBlock2/ipshared/35de/hdl/verilog" --include "../../../../myProject1.gen/sources_1/bd/myBlock2/ipshared/ec67/hdl" --include "../../../../myProject1.gen/sources_1/bd/myBlock2/ipshared/6b2b/hdl" --include "../../../../myProject1.gen/sources_1/bd/myBlock2/ipshared/b0b0/rtl" --include "E:/xilinx/Vivado/2023.2/data/xilinx_vip/include" \
+"../../../../p_user_files/bd/myBlock2/ip/myBlock2_axi_smc_0/bd_0/ip/ip_0/sim/bd_3e6c_one_0.v" \
+
+sv xil_defaultlib  --include "../../../../myProject1.gen/sources_1/bd/myBlock2/ipshared/f0b6/hdl/verilog" --include "../../../../myProject1.gen/sources_1/bd/myBlock2/ipshared/35de/hdl/verilog" --include "../../../../myProject1.gen/sources_1/bd/myBlock2/ipshared/ec67/hdl" --include "../../../../myProject1.gen/sources_1/bd/myBlock2/ipshared/6b2b/hdl" --include "../../../../myProject1.gen/sources_1/bd/myBlock2/ipshared/b0b0/rtl" --include "E:/xilinx/Vivado/2023.2/data/xilinx_vip/include" \
+"../../../../p_user_files/bd/myBlock2/ip/myBlock2_axi_smc_0/bd_0/ip/ip_2/sim/bd_3e6c_s00mmu_0.sv" \
+"../../../../p_user_files/bd/myBlock2/ip/myBlock2_axi_smc_0/bd_0/ip/ip_3/sim/bd_3e6c_s00tr_0.sv" \
+"../../../../p_user_files/bd/myBlock2/ip/myBlock2_axi_smc_0/bd_0/ip/ip_4/sim/bd_3e6c_s00sic_0.sv" \
+"../../../../p_user_files/bd/myBlock2/ip/myBlock2_axi_smc_0/bd_0/ip/ip_5/sim/bd_3e6c_s00a2s_0.sv" \
+"../../../../p_user_files/bd/myBlock2/ip/myBlock2_axi_smc_0/bd_0/ip/ip_6/sim/bd_3e6c_sarn_0.sv" \
+"../../../../p_user_files/bd/myBlock2/ip/myBlock2_axi_smc_0/bd_0/ip/ip_7/sim/bd_3e6c_srn_0.sv" \
+"../../../../p_user_files/bd/myBlock2/ip/myBlock2_axi_smc_0/bd_0/ip/ip_8/sim/bd_3e6c_m00s2a_0.sv" \
+"../../../../p_user_files/bd/myBlock2/ip/myBlock2_axi_smc_0/bd_0/ip/ip_9/sim/bd_3e6c_m00e_0.sv" \
+
+verilog xil_defaultlib  --include "../../../../myProject1.gen/sources_1/bd/myBlock2/ipshared/f0b6/hdl/verilog" --include "../../../../myProject1.gen/sources_1/bd/myBlock2/ipshared/35de/hdl/verilog" --include "../../../../myProject1.gen/sources_1/bd/myBlock2/ipshared/ec67/hdl" --include "../../../../myProject1.gen/sources_1/bd/myBlock2/ipshared/6b2b/hdl" --include "../../../../myProject1.gen/sources_1/bd/myBlock2/ipshared/b0b0/rtl" --include "E:/xilinx/Vivado/2023.2/data/xilinx_vip/include" \
+"../../../../p_user_files/bd/myBlock2/ip/myBlock2_axi_smc_0/bd_0/sim/bd_3e6c.v" \
+"../../../../p_user_files/bd/myBlock2/ip/myBlock2_axi_smc_0/sim/myBlock2_axi_smc_0.v" \
+"../../../../p_user_files/bd/myBlock2/ip/myBlock2_processing_system7_0_0/sim/myBlock2_processing_system7_0_0.v" \
+"../../../../p_user_files/bd/myBlock2/ip/myBlock2_xbar_0/sim/myBlock2_xbar_0.v" \
+"../../../../p_user_files/bd/myBlock2/ipshared/b0b0/rtl/Layer_1.v" \
+"../../../../p_user_files/bd/myBlock2/ipshared/b0b0/rtl/Layer_2.v" \
+"../../../../p_user_files/bd/myBlock2/ipshared/b0b0/rtl/Layer_3.v" \
+"../../../../p_user_files/bd/myBlock2/ipshared/b0b0/rtl/Sig_ROM.v" \
+"../../../../p_user_files/bd/myBlock2/ipshared/b0b0/rtl/Weight_Memory.v" \
+"../../../../p_user_files/bd/myBlock2/ipshared/b0b0/rtl/axi_lite_wrapper.v" \
+"../../../../p_user_files/bd/myBlock2/ipshared/b0b0/rtl/maxFinder.v" \
+"../../../../p_user_files/bd/myBlock2/ipshared/b0b0/rtl/neuron.v" \
+"../../../../p_user_files/bd/myBlock2/ipshared/b0b0/rtl/relu.v" \
+"../../../../p_user_files/bd/myBlock2/ipshared/b0b0/rtl/zynet.v" \
+"../../../../p_user_files/bd/myBlock2/ip/myBlock2_zyNet_0_0/sim/myBlock2_zyNet_0_0.v" \
+"../../../../p_user_files/bd/myBlock2/ip/myBlock2_auto_pc_0/sim/myBlock2_auto_pc_0.v" \
+"../../../../../src/fpga/rtl/Layer_1.v" \
+"../../../../../src/fpga/rtl/Layer_2.v" \
+"../../../../../src/fpga/rtl/Layer_3.v" \
+"../../../../../src/fpga/rtl/Sig_ROM.v" \
+"../../../../../src/fpga/rtl/include.v" \
+"../../../../../src/fpga/rtl/Weight_Memory.v" \
+"../../../../../src/fpga/rtl/axi_lite_wrapper.v" \
+"../../../../../src/fpga/rtl/maxFinder.v" \
+"../../../../../src/fpga/rtl/neuron.v" \
+"../../../../../src/fpga/rtl/relu.v" \
+"../../../../../src/fpga/rtl/zynet.v" \
+"../../../../p_user_files/bd/myBlock2/ip/myBlock2_xlconcat_0_0/sim/myBlock2_xlconcat_0_0.v" \
+"../../../../p_user_files/bd/myBlock2/sim/myBlock2.v" \
+"../../../../../src/fpga/tb/top_sim.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
